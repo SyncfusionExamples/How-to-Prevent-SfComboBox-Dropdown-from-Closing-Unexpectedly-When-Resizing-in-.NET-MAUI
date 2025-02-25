@@ -28,7 +28,7 @@ namespace ComboBoxSoftInputAdjustHandling
                 e.Cancel = true; // Prevent closing during resizing
             }
 
-            await Task.Delay(400); // Short delay to update UI after resizing
+            await Task.Delay(200); // Add required delay to ensure UI updates properly after resizing
             isResizing = false;
         }
 
