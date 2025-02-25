@@ -1,5 +1,5 @@
-# How-to-Prevent-SfComboBox-Dropdown-from-Closing-Unexpectedly-When-Resizing-in-.NET-MAUI
-This repository contains a sample explaining how to Prevent SfComboBox Dropdown from Closing Unexpectedly When Resizing in .NET MAUI
+# How-to-Prevent-Unexpected-Closure-of-the-.NET-MAUI-ComboBox-Dropdown-During-ScrollView-Resizing
+This repository contains a sample explaining how to Prevent Unexpected Closure of the .NET MAUI ComboBox Dropdown During ScrollView Resizing
 ## Solution
 To prevent the dropdown from closing during resizing, use the following approach:
 
